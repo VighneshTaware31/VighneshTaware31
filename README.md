@@ -75,7 +75,7 @@ Flask, Streamlit, Git & GitHub
 
 ## 🤝 Connect With Me
 <p>
-  <a href="(https://www.linkedin.com/in/vighnesh-taware-aa92642a2/)" target="_blank">
+  <a href="https://www.linkedin.com/in/vighnesh-taware-aa92642a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tawarevighnesh636@gmail.com">
