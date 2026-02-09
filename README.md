@@ -85,11 +85,6 @@ Flask, Streamlit, Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VighneshTaware&show_icons=true&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VighneshTaware&theme=tokyonight" />
 </p>
