@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vighnesh Taware</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | ML Enthusiast</h3> 
-<h3 align="center">💻 Python • Machine Learning • Deep Learning • DSA (C++)</h3>
+<h3 align="center">💻 Python • Machine Learning • Deep Learning • DSA </h3>
 
 <p align="center">
   <a href="https://github.com/VighneshTaware">
