@@ -82,13 +82,6 @@ Flask, Streamlit, Git & GitHub
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VighneshTaware&theme=tokyonight" />
-</p>
-
----
 
 ⚡ **Fun Fact:**  
 I believe data + curiosity = powerful insights 📊🚀
